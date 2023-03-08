@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "@element-plus/nuxt": "^1.0.3",
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "@nuxtjs/html-validator": "^1.2.4",
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@sidebase/nuxt-auth": "^0.4.3",
+    "nuxt-icons": "^3.1.0"
+  }
+}
